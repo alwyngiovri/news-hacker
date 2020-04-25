@@ -1,9 +1,12 @@
 <template>
   <div id="app">
-    <div id="nav">
+    <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
-    </div>
+    </div>-->
+    <!-- <img src="./assets/logo.png" />
+    <a-button type="primary">Button</a-button> -->
+    <!-- <a-input-search placeholder="input search text" style="width: 200px" @search="onSearch" /> -->
     <router-view />
   </div>
 </template>
